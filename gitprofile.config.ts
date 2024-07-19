@@ -41,7 +41,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'tom-groenwoldt-638691279',
-    website: 'https://www.tomgroenwoldt.de',
+    website: 'https://tomgroenwoldt.github.io',
     email: 'tom.groenwoldt@gmail.com',
   },
   resume: {
